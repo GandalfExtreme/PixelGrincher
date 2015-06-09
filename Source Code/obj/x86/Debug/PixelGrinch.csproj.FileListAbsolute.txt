@@ -1,0 +1,6 @@
+E:\Dokumente\Programming\C#\Projects\Bildbearbeitung\PixelGrinch\PixelGrinch\bin\Debug\PBitmap.cs
+E:\Dokumente\Programming\C#\Projects\Bildbearbeitung\PixelGrinch\PixelGrinch\bin\Debug\PixelGrinch.exe
+E:\Dokumente\Programming\C#\Projects\Bildbearbeitung\PixelGrinch\PixelGrinch\bin\Debug\PixelGrinch.pdb
+E:\Dokumente\Programming\C#\Projects\Bildbearbeitung\PixelGrinch\PixelGrinch\obj\x86\Debug\PixelGrinch.exe
+E:\Dokumente\Programming\C#\Projects\Bildbearbeitung\PixelGrinch\PixelGrinch\obj\x86\Debug\PixelGrinch.pdb
+E:\Dokumente\Programming\C#\Projects\Bildbearbeitung\PixelGrinch\PixelGrinch\obj\x86\Debug\PixelGrinch.csprojResolveAssemblyReference.cache
